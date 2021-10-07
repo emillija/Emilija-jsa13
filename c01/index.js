@@ -13,27 +13,69 @@
 // }, 2000)
 // console.log('muki')
 
-// let array = [1,2,3,4,5,6,7]
 
+// let array = [1,2,3,4,5,6,7]
 // let n3 = array.reduce((acc, v) => {
 //     return acc + v;
 // })
-
 // console.log(n3)
 
+const myTimeout = (timeout) => {
+    return new Promise((success, fail) => {
+        setTimeout(() => {
+            console.log('first');
+            success(); // the function placed in the .then(...)
+        }, timeout);
+    });
+};
 
-let studenti = [
-    {ime: 'P', prosek: 8},
-    {ime: 'J', prosek: 9},
-    {ime: 'S', prosek: 6},
-    {ime: 'I', prosek: 10},
-    {ime: 'G', prosek: 7}
-];
+myTimeout(2000)
+    .then(() => {
+        console.log('second');
+        return myTimeout(1000);
+    })
+    .then(() => {
+        console.log('third');
+    })
+    .catch(err => {
+        console.error(err);
+    });
 
-studenti.sort(function (a, b) {
-    return b.prosek - a.prosek;
-});
+
+const main = async () => {
+    try {
+        await myTimeout(2000); // wait until done then go to next line
+        console.log('second');
+        await myTimeout(1000); // wait until done then go to next line
+        console.log('third');
+    } catch(err) {
+        console.error(err);
+    }
+};
+
+main();
+
+// map
+// reduce
+// sort
+// forEach
+// filter
 
 
-// studenti.reverse();
-console.log(studenti);
+
+// let studenti = [
+//     {ime: 'P', prosek: 8},
+//     {ime: 'J', prosek: 9},
+//     {ime: 'S', prosek: 6},
+//     {ime: 'I', prosek: 10},
+//     {ime: 'G', prosek: 7}
+// ];
+
+// studenti.sort(function (a, b) {
+//     // return a.prosek - b.prosek;
+//     return b.prosek - a.prosek;
+// });
+
+
+// // studenti.reverse();
+// console.log(studenti);
