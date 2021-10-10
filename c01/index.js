@@ -7,7 +7,6 @@
 // ]
 // console.table(table);
 
-
 // setTimeout(() => {
 //     console.log('suki')
 // }, 2000)
@@ -41,7 +40,6 @@ myTimeout(2000)
         console.error(err);
     });
 
-
 const main = async () => {
     try {
         await myTimeout(2000); // wait until done then go to next line
@@ -61,8 +59,6 @@ main();
 // forEach
 // filter
 
-
-
 // let studenti = [
 //     {ime: 'P', prosek: 8},
 //     {ime: 'J', prosek: 9},
@@ -75,7 +71,6 @@ main();
 //     // return a.prosek - b.prosek;
 //     return b.prosek - a.prosek;
 // });
-
 
 // // studenti.reverse();
 // console.log(studenti);
