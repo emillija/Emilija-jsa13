@@ -59,18 +59,18 @@ main();
 // forEach
 // filter
 
-// let studenti = [
-//     {ime: 'P', prosek: 8},
-//     {ime: 'J', prosek: 9},
-//     {ime: 'S', prosek: 6},
-//     {ime: 'I', prosek: 10},
-//     {ime: 'G', prosek: 7}
+// let students = [
+//     {name: 'P', value: 8},
+//     {name: 'J', value: 9},
+//     {name: 'S', value: 6},
+//     {name: 'I', value: 10},
+//     {name: 'G', value: 7}
 // ];
 
-// studenti.sort(function (a, b) {
-//     // return a.prosek - b.prosek;
-//     return b.prosek - a.prosek;
+// students.sort(function (a, b) {
+//     // return a.value - b.value;
+//     return b.value - a.value;
 // });
 
-// // studenti.reverse();
-// console.log(studenti);
+// // students.reverse();
+// console.log(students);
