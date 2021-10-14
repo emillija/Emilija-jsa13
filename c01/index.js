@@ -61,8 +61,6 @@ main();
 // forEach
 // filter
 
-
-
 // let studenti = [
 //     {ime: 'P', prosek: 8},
 //     {ime: 'J', prosek: 9},
@@ -75,7 +73,6 @@ main();
 //     // return a.prosek - b.prosek;
 //     return b.prosek - a.prosek;
 // });
-
 
 // // studenti.reverse();
 // console.log(studenti);
