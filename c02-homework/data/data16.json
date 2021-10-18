@@ -1,0 +1,46 @@
+[
+    {
+        "country": "Afghanistan",
+        "dish": "Kabuli Palaw"
+    },
+    {
+        "country": "Albania",
+        "dish": "Tavë kosi"
+    },
+    {
+        "country": "Algeria",
+        "dish": "Couscous"
+    },
+    {
+        "country": "Angola",
+        "dish": "Moamba de galinha"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "dish": "Pepperpot, Fungee"
+    },
+    {
+        "country": "Argentina",
+        "dish": "Asado"
+    },
+    {
+        "country": "Armenia",
+        "dish": "Harissa, Dolma, Khorovats"
+    },
+    {
+        "country": "Aruba",
+        "dish": "Keshi yena"
+    },
+    {
+        "country": "Australia",
+        "dish": "Meat pie,Roast lamb"
+    },
+    {
+        "country": "Austria",
+        "dish": "Wiener schnitzel, Tafelspitz"
+    },
+    {
+        "country": "Azerbaijan",
+        "dish": "Dolma"
+    }
+]

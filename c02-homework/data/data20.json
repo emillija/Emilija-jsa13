@@ -1,0 +1,962 @@
+[
+    {
+        "country": "Afghanistan",
+        "religion": "islam"
+    },
+    {
+        "country": "Albania",
+        "religion": "islam"
+    },
+    {
+        "country": "Algeria",
+        "religion": "islam"
+    },
+    {
+        "country": "American Samoa",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Andorra",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Angola",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Anguilla",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Argentina",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Armenia",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Aruba",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Asia-Pacific",
+        "religion": "hinduism"
+    },
+    {
+        "country": "Australia",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Austria",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Azerbaijan",
+        "religion": "islam"
+    },
+    {
+        "country": "Bahamas",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Bahrain",
+        "religion": "islam"
+    },
+    {
+        "country": "Bangladesh",
+        "religion": "islam"
+    },
+    {
+        "country": "Barbados",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Belarus",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Belgium",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Belize",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Benin",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Bermuda",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Bhutan",
+        "religion": "buddhism"
+    },
+    {
+        "country": "Bolivia",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Botswana",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Brazil",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "British Virgin Islands",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Brunei",
+        "religion": "islam"
+    },
+    {
+        "country": "Bulgaria",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Burkina Faso",
+        "religion": "islam"
+    },
+    {
+        "country": "Burundi",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Cambodia",
+        "religion": "buddhism"
+    },
+    {
+        "country": "Cameroon",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Canada",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Cape Verde",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Caribbean Netherlands",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Cayman Islands",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Central African Republic",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Chad",
+        "religion": "islam"
+    },
+    {
+        "country": "Channel Islands",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Chile",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "China",
+        "religion": "unaffiliated religions"
+    },
+    {
+        "country": "Colombia",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Comoros",
+        "religion": "islam"
+    },
+    {
+        "country": "Congo",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Cook Islands",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Costa Rica",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Cote d'Ivoire",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Croatia",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Cuba",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Curacao",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Cyprus",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Czech Republic",
+        "religion": "unaffiliated religions"
+    },
+    {
+        "country": "Democratic Republic of Congo",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Denmark",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Djibouti",
+        "religion": "islam"
+    },
+    {
+        "country": "Dominica",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Dominican Republic",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Ecuador",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Egypt",
+        "religion": "islam"
+    },
+    {
+        "country": "El Salvador",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Eritrea",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Estonia",
+        "religion": "unaffiliated religions"
+    },
+    {
+        "country": "Ethiopia",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Europe",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Faeroe Islands",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Falkland Islands",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Fiji",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Finland",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "France",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "French Guiana",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "French Polynesia",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Gabon",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Gambia",
+        "religion": "islam"
+    },
+    {
+        "country": "Georgia",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Germany",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Ghana",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Gibraltar",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Greece",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Greenland",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Grenada",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Guadeloupe",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Guam",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Guatemala",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Guinea",
+        "religion": "islam"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "religion": "islam"
+    },
+    {
+        "country": "Guyana",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Haiti",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Honduras",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Hong Kong",
+        "religion": "unaffiliated religions"
+    },
+    {
+        "country": "Hungary",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Iceland",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "India",
+        "religion": "hinduism"
+    },
+    {
+        "country": "Indonesia",
+        "religion": "islam"
+    },
+    {
+        "country": "Iran",
+        "religion": "islam"
+    },
+    {
+        "country": "Iraq",
+        "religion": "islam"
+    },
+    {
+        "country": "Ireland",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Isle of Man",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Israel",
+        "religion": "judaism"
+    },
+    {
+        "country": "Italy",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Jamaica",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Japan",
+        "religion": "unaffiliated religions"
+    },
+    {
+        "country": "Jordan",
+        "religion": "islam"
+    },
+    {
+        "country": "Kazakhstan",
+        "religion": "islam"
+    },
+    {
+        "country": "Kenya",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Kiribati",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Kosovo",
+        "religion": "islam"
+    },
+    {
+        "country": "Kuwait",
+        "religion": "islam"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "religion": "islam"
+    },
+    {
+        "country": "Laos",
+        "religion": "buddhism"
+    },
+    {
+        "country": "Latin America-Caribbean",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Latvia",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Lebanon",
+        "religion": "islam"
+    },
+    {
+        "country": "Lesotho",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Liberia",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Libya",
+        "religion": "islam"
+    },
+    {
+        "country": "Liechtenstein",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Lithuania",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Luxembourg",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Macao",
+        "religion": "folk religions"
+    },
+    {
+        "country": "Macedonia",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Madagascar",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Malawi",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Malaysia",
+        "religion": "islam"
+    },
+    {
+        "country": "Maldives",
+        "religion": "islam"
+    },
+    {
+        "country": "Mali",
+        "religion": "islam"
+    },
+    {
+        "country": "Malta",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Marshall Islands",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Martinique",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Mauritania",
+        "religion": "islam"
+    },
+    {
+        "country": "Mauritius",
+        "religion": "hinduism"
+    },
+    {
+        "country": "Mayotte",
+        "religion": "islam"
+    },
+    {
+        "country": "Mexico",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Micronesia (country)",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Middle East-North Africa",
+        "religion": "islam"
+    },
+    {
+        "country": "Moldova",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Monaco",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Mongolia",
+        "religion": "buddhism"
+    },
+    {
+        "country": "Montenegro",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Montserrat",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Morocco",
+        "religion": "islam"
+    },
+    {
+        "country": "Mozambique",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Myanmar",
+        "religion": "buddhism"
+    },
+    {
+        "country": "Namibia",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Nauru",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Nepal",
+        "religion": "hinduism"
+    },
+    {
+        "country": "Netherlands",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "New Caledonia",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "New Zealand",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Nicaragua",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Niger",
+        "religion": "islam"
+    },
+    {
+        "country": "Nigeria",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Niue",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "North America",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "North Korea",
+        "religion": "unaffiliated religions"
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Norway",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Oman",
+        "religion": "islam"
+    },
+    {
+        "country": "Pakistan",
+        "religion": "islam"
+    },
+    {
+        "country": "Palau",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Palestine",
+        "religion": "islam"
+    },
+    {
+        "country": "Panama",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Papua New Guinea",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Paraguay",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Peru",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Philippines",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Poland",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Portugal",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Puerto Rico",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Qatar",
+        "religion": "islam"
+    },
+    {
+        "country": "Reunion",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Romania",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Russia",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Rwanda",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Saint Helena",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Saint Lucia",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Samoa",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "San Marino",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Saudi Arabia",
+        "religion": "islam"
+    },
+    {
+        "country": "Senegal",
+        "religion": "islam"
+    },
+    {
+        "country": "Serbia",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Seychelles",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Sierra Leone",
+        "religion": "islam"
+    },
+    {
+        "country": "Singapore",
+        "religion": "buddhism"
+    },
+    {
+        "country": "Sint Maarten (Dutch part)",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Slovakia",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Slovenia",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Solomon Islands",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Somalia",
+        "religion": "islam"
+    },
+    {
+        "country": "South Africa",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "South Korea",
+        "religion": "unaffiliated religions"
+    },
+    {
+        "country": "South Sudan",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Spain",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Sri Lanka",
+        "religion": "buddhism"
+    },
+    {
+        "country": "Sub-Saharan Africa",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Sudan",
+        "religion": "islam"
+    },
+    {
+        "country": "Suriname",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Swaziland",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Sweden",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Switzerland",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Syria",
+        "religion": "islam"
+    },
+    {
+        "country": "Taiwan",
+        "religion": "folk religions"
+    },
+    {
+        "country": "Tajikistan",
+        "religion": "islam"
+    },
+    {
+        "country": "Tanzania",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Thailand",
+        "religion": "buddhism"
+    },
+    {
+        "country": "Timor",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Togo",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Tokelau",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Tonga",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Tunisia",
+        "religion": "islam"
+    },
+    {
+        "country": "Turkey",
+        "religion": "islam"
+    },
+    {
+        "country": "Turkmenistan",
+        "religion": "islam"
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Tuvalu",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Uganda",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Ukraine",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "United Arab Emirates",
+        "religion": "islam"
+    },
+    {
+        "country": "United Kingdom",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "United States",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "United States Virgin Islands",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Uruguay",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Uzbekistan",
+        "religion": "islam"
+    },
+    {
+        "country": "Vanuatu",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Vatican",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Venezuela",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Vietnam",
+        "religion": "folk religions"
+    },
+    {
+        "country": "Wallis and Futuna",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Western Sahara",
+        "religion": "islam"
+    },
+    {
+        "country": "Yemen",
+        "religion": "islam"
+    },
+    {
+        "country": "Zambia",
+        "religion": "CHRISTIANITY"
+    },
+    {
+        "country": "Zimbabwe",
+        "religion": "CHRISTIANITY"
+    }
+]

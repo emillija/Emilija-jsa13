@@ -1,0 +1,66 @@
+[
+    {
+        "country": "Burundi",
+        "elevation": 1504
+    },
+    {
+        "country": "Mongolia",
+        "elevation": 1528
+    },
+    {
+        "country": "Peru",
+        "elevation": 1555
+    },
+    {
+        "country": "Rwanda",
+        "elevation": 1598
+    },
+    {
+        "country": "Armenia",
+        "elevation": 1792
+    },
+    {
+        "country": "Greenland",
+        "elevation": 1792
+    },
+    {
+        "country": "China",
+        "elevation": 1840
+    },
+    {
+        "country": "Chile",
+        "elevation": 1871
+    },
+    {
+        "country": "Andorra",
+        "elevation": 1996
+    },
+    {
+        "country": "Lesotho",
+        "elevation": 2161
+    },
+    {
+        "country": "Antarctica",
+        "elevation": 2300
+    },
+    {
+        "country": "Serbia",
+        "elevation": 2826
+    },
+    {
+        "country": "Kyrgyzstan",
+        "elevation": 2988
+    },
+    {
+        "country": "Tajikistan",
+        "elevation": 3186
+    },
+    {
+        "country": "Nepal",
+        "elevation": 3265
+    },
+    {
+        "country": "Bhutan",
+        "elevation": 3280
+    }
+]

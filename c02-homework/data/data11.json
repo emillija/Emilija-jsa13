@@ -1,0 +1,717 @@
+[
+    {
+        "country": "Afghanistan",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "American Samoa",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Andorra",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Angola",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Anguilla",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Antarctica",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Aruba",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Bahamas",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Bangladesh",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Barbados",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Belgium",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Belize",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Benin",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Bermuda",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Bhutan",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Botswana",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Bouvet Island",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Burkina Faso",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Burundi",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Cameroon",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Cape Verde",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Cayman Islands",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Central African Republic",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Chad",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Christmas Island",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Cocos (Keeling) Islands",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Comoros",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Congo",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Cook Islands",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Djibouti",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Dominica",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "East Timor",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "England",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Eritrea",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Ethiopia",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Falkland Islands",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Fiji Islands",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "France",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "French Guiana",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "French Polynesia",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "French Southern territories",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Gabon",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Gambia",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Gibraltar",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Grenada",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Guadeloupe",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Guam",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Guinea",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Guyana",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Haiti",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Holy See (Vatican City State)",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Iraq",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Ireland",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Italy",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Jamaica",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Kazakhstan",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Kiribati",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Laos",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Lesotho",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Liberia",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Libyan Arab Jamahiriya",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Liechtenstein",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Luxembourg",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Macao",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Madagascar",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Malawi",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Maldives",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Mali",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Marshall Islands",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Martinique",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Mauritania",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Mayotte",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Micronesia, Federated States of",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Monaco",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Montserrat",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Mozambique",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Myanmar",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Namibia",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Nauru",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Nepal",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Netherlands Antilles",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "New Caledonia",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Niger",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Niue",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Norfolk Island",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Northern Ireland",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Oman",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Palau",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Palestine",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Papua New Guinea",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Pitcairn",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Puerto Rico",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Qatar",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Reunion",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Russian Federation",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Rwanda",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Saint Helena",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Saint Lucia",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Samoa",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "San Marino",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Scotland",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Seychelles",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Sierra Leone",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Solomon Islands",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Somalia",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "South Sudan",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Spain",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Sri Lanka",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Sudan",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Suriname",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Svalbard and Jan Mayen",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Swaziland",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Sweden",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Switzerland",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "The Democratic Republic of Congo",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Togo",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Tokelau",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Tonga",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Tuvalu",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Uganda",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Vanuatu",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Virgin Islands, British",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Virgin Islands, U.S.",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Wales",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Wallis and Futuna",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Western Sahara",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Yemen",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Zambia",
+        "barcode": null,
+        "prefix": "no prefix"
+    },
+    {
+        "country": "Zimbabwe",
+        "barcode": null,
+        "prefix": "no prefix"
+    }
+]

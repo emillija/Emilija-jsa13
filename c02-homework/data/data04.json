@@ -1,0 +1,1217 @@
+[
+    {
+        "country": "Andorra",
+        "expectancy": 83.5,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Macao",
+        "expectancy": 81.6,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "San Marino",
+        "expectancy": 81.1,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Japan",
+        "expectancy": 80.7,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Singapore",
+        "expectancy": 80.1,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Australia",
+        "expectancy": 79.8,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Sweden",
+        "expectancy": 79.6,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Switzerland",
+        "expectancy": 79.6,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Hong Kong",
+        "expectancy": 79.5,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Canada",
+        "expectancy": 79.4,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Iceland",
+        "expectancy": 79.4,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Gibraltar",
+        "expectancy": 79,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Italy",
+        "expectancy": 79,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Cayman Islands",
+        "expectancy": 78.9,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "France",
+        "expectancy": 78.8,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Liechtenstein",
+        "expectancy": 78.8,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Monaco",
+        "expectancy": 78.8,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Spain",
+        "expectancy": 78.8,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Norway",
+        "expectancy": 78.7,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Israel",
+        "expectancy": 78.6,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Aruba",
+        "expectancy": 78.4,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Faroe Islands",
+        "expectancy": 78.4,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Greece",
+        "expectancy": 78.4,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Martinique",
+        "expectancy": 78.3,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Netherlands",
+        "expectancy": 78.3,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Montserrat",
+        "expectancy": 78,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Malta",
+        "expectancy": 77.9,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Belgium",
+        "expectancy": 77.8,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Guam",
+        "expectancy": 77.8,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "New Zealand",
+        "expectancy": 77.8,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Austria",
+        "expectancy": 77.7,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "United Kingdom",
+        "expectancy": 77.7,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "expectancy": 77.6,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Finland",
+        "expectancy": 77.4,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Germany",
+        "expectancy": 77.4,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Jordan",
+        "expectancy": 77.4,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Luxembourg",
+        "expectancy": 77.1,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "United States",
+        "expectancy": 77.1,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Guadeloupe",
+        "expectancy": 77,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Bermuda",
+        "expectancy": 76.9,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Ireland",
+        "expectancy": 76.8,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Saint Helena",
+        "expectancy": 76.8,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Cyprus",
+        "expectancy": 76.7,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Denmark",
+        "expectancy": 76.5,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Cuba",
+        "expectancy": 76.2,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Anguilla",
+        "expectancy": 76.1,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "French Guiana",
+        "expectancy": 76.1,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Kuwait",
+        "expectancy": 76.1,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Serbia",
+        "expectancy": 76.05,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Costa Rica",
+        "expectancy": 75.8,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Portugal",
+        "expectancy": 75.8,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Chile",
+        "expectancy": 75.7,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Puerto Rico",
+        "expectancy": 75.6,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Libyan Arab Jamahiriya",
+        "expectancy": 75.5,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "expectancy": 75.5,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Panama",
+        "expectancy": 75.5,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Jamaica",
+        "expectancy": 75.2,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Uruguay",
+        "expectancy": 75.2,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "American Samoa",
+        "expectancy": 75.1,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Argentina",
+        "expectancy": 75.1,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Slovenia",
+        "expectancy": 74.9,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "French Polynesia",
+        "expectancy": 74.8,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Netherlands Antilles",
+        "expectancy": 74.7,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Czech Republic",
+        "expectancy": 74.5,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "South Korea",
+        "expectancy": 74.4,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "United Arab Emirates",
+        "expectancy": 74.1,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "North Macedonia",
+        "expectancy": 73.8,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Croatia",
+        "expectancy": 73.7,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Paraguay",
+        "expectancy": 73.7,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Slovakia",
+        "expectancy": 73.7,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Tunisia",
+        "expectancy": 73.7,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Brunei",
+        "expectancy": 73.6,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Dominica",
+        "expectancy": 73.4,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "expectancy": 73.3,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Dominican Republic",
+        "expectancy": 73.2,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Poland",
+        "expectancy": 73.2,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Venezuela",
+        "expectancy": 73.1,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Bahrain",
+        "expectancy": 73,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Barbados",
+        "expectancy": 73,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "New Caledonia",
+        "expectancy": 72.8,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Reunion",
+        "expectancy": 72.7,
+        "res": "High life expectancy"
+    },
+    {
+        "country": "Qatar",
+        "expectancy": 72.4,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Saint Lucia",
+        "expectancy": 72.3,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "expectancy": 72.3,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Oman",
+        "expectancy": 71.8,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Albania",
+        "expectancy": 71.6,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "expectancy": 71.5,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Mexico",
+        "expectancy": 71.5,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "China",
+        "expectancy": 71.4,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Hungary",
+        "expectancy": 71.4,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Palestine",
+        "expectancy": 71.4,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Suriname",
+        "expectancy": 71.4,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Lebanon",
+        "expectancy": 71.3,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Solomon Islands",
+        "expectancy": 71.3,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Bahamas",
+        "expectancy": 71.1,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Cook Islands",
+        "expectancy": 71.1,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Ecuador",
+        "expectancy": 71.1,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Mauritius",
+        "expectancy": 71,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Turkey",
+        "expectancy": 71,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Belize",
+        "expectancy": 70.9,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Bulgaria",
+        "expectancy": 70.9,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Malaysia",
+        "expectancy": 70.8,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "North Korea",
+        "expectancy": 70.7,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "expectancy": 70.7,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "expectancy": 70.5,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Seychelles",
+        "expectancy": 70.4,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Colombia",
+        "expectancy": 70.3,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Indonesia",
+        "expectancy": 70.1,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Peru",
+        "expectancy": 70,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Honduras",
+        "expectancy": 69.9,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Romania",
+        "expectancy": 69.9,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Algeria",
+        "expectancy": 69.7,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "El Salvador",
+        "expectancy": 69.7,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Iran",
+        "expectancy": 69.7,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Estonia",
+        "expectancy": 69.5,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Vietnam",
+        "expectancy": 69.3,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Samoa",
+        "expectancy": 69.2,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Lithuania",
+        "expectancy": 69.1,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Morocco",
+        "expectancy": 69.1,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Cape Verde",
+        "expectancy": 68.9,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Nicaragua",
+        "expectancy": 68.7,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Palau",
+        "expectancy": 68.6,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Thailand",
+        "expectancy": 68.6,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Syria",
+        "expectancy": 68.5,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Latvia",
+        "expectancy": 68.4,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Greenland",
+        "expectancy": 68.1,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Belarus",
+        "expectancy": 68,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "expectancy": 68,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Fiji Islands",
+        "expectancy": 67.9,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Tonga",
+        "expectancy": 67.9,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Saudi Arabia",
+        "expectancy": 67.8,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Philippines",
+        "expectancy": 67.5,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Mongolia",
+        "expectancy": 67.3,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Russian Federation",
+        "expectancy": 67.2,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Iraq",
+        "expectancy": 66.5,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Armenia",
+        "expectancy": 66.4,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Tuvalu",
+        "expectancy": 66.3,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Guatemala",
+        "expectancy": 66.2,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Ukraine",
+        "expectancy": 66,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Marshall Islands",
+        "expectancy": 65.5,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "expectancy": 65.3,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Georgia",
+        "expectancy": 64.5,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Grenada",
+        "expectancy": 64.5,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Moldova",
+        "expectancy": 64.5,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Tajikistan",
+        "expectancy": 64.1,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Guyana",
+        "expectancy": 64,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Bolivia",
+        "expectancy": 63.7,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Uzbekistan",
+        "expectancy": 63.7,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "expectancy": 63.4,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Egypt",
+        "expectancy": 63.3,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Kazakhstan",
+        "expectancy": 63.2,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Papua New Guinea",
+        "expectancy": 63.1,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Azerbaijan",
+        "expectancy": 62.9,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Brazil",
+        "expectancy": 62.9,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "India",
+        "expectancy": 62.5,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Maldives",
+        "expectancy": 62.2,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Senegal",
+        "expectancy": 62.2,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Pakistan",
+        "expectancy": 61.1,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Turkmenistan",
+        "expectancy": 60.9,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Nauru",
+        "expectancy": 60.8,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Vanuatu",
+        "expectancy": 60.6,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Bangladesh",
+        "expectancy": 60.2,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Comoros",
+        "expectancy": 60,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Kiribati",
+        "expectancy": 59.8,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Yemen",
+        "expectancy": 59.8,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Mayotte",
+        "expectancy": 59.5,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Nepal",
+        "expectancy": 57.8,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Ghana",
+        "expectancy": 57.4,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Sudan",
+        "expectancy": 56.6,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Cambodia",
+        "expectancy": 56.5,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Eritrea",
+        "expectancy": 55.8,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Madagascar",
+        "expectancy": 55,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Myanmar",
+        "expectancy": 54.9,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Cameroon",
+        "expectancy": 54.8,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Togo",
+        "expectancy": 54.7,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "expectancy": 53.6,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Gambia",
+        "expectancy": 53.2,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Laos",
+        "expectancy": 53.1,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Bhutan",
+        "expectancy": 52.4,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Tanzania",
+        "expectancy": 52.3,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Nigeria",
+        "expectancy": 51.6,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "South Africa",
+        "expectancy": 51.1,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Liberia",
+        "expectancy": 51,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Djibouti",
+        "expectancy": 50.8,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Lesotho",
+        "expectancy": 50.8,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Mauritania",
+        "expectancy": 50.8,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Chad",
+        "expectancy": 50.5,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Benin",
+        "expectancy": 50.2,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Gabon",
+        "expectancy": 50.1,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Western Sahara",
+        "expectancy": 49.8,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Haiti",
+        "expectancy": 49.2,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "expectancy": 49,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Kenya",
+        "expectancy": 48,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Congo",
+        "expectancy": 47.4,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Burkina Faso",
+        "expectancy": 46.7,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Mali",
+        "expectancy": 46.7,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Burundi",
+        "expectancy": 46.2,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Somalia",
+        "expectancy": 46.2,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "East Timor",
+        "expectancy": 46,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Afghanistan",
+        "expectancy": 45.9,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Guinea",
+        "expectancy": 45.6,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Sierra Leone",
+        "expectancy": 45.3,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Ethiopia",
+        "expectancy": 45.2,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Ivory Coast",
+        "expectancy": 45.2,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Central African Republic",
+        "expectancy": 44,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Uganda",
+        "expectancy": 42.9,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Namibia",
+        "expectancy": 42.5,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Niger",
+        "expectancy": 41.3,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Swaziland",
+        "expectancy": 40.4,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Botswana",
+        "expectancy": 39.3,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Rwanda",
+        "expectancy": 39.3,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Angola",
+        "expectancy": 38.3,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Zimbabwe",
+        "expectancy": 37.8,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Malawi",
+        "expectancy": 37.6,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Mozambique",
+        "expectancy": 37.5,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Zambia",
+        "expectancy": 37.2,
+        "res": "Low life expectancy"
+    },
+    {
+        "country": "Antarctica",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "Bouvet Island",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "Christmas Island",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "Cocos (Keeling) Islands",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "England",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "Falkland Islands",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "French Southern territories",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "Holy See (Vatican City State)",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "Micronesia, Federated States of",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "Niue",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "Norfolk Island",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "Northern Ireland",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "Pitcairn",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "Scotland",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "South Sudan",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "Sri Lanka",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "Svalbard and Jan Mayen",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "The Democratic Republic of Congo",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "Tokelau",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "Virgin Islands, British",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "Virgin Islands, U.S.",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "Wales",
+        "expectancy": null,
+        "res": "..."
+    },
+    {
+        "country": "Wallis and Futuna",
+        "expectancy": null,
+        "res": "..."
+    }
+]
