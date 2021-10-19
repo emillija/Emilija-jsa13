@@ -24,13 +24,14 @@ return new Promise((resolve, reject) => {
 // const main = async () => {
 
 // try {
-    // let data = await read('country-json/country-by-calling-code.json');
-    // let parsedData = JSON.parse(data);
+//     let data = await read('country-json/country-by-calling-code.json');
+//     let parsedData = JSON.parse(data);
 
-    // let output = parsedData.filter(item => item.calling_code > 1500);
+//     let output = parsedData.filter(item => item.calling_code > 1500);
 
-    // let outputString = JSON.stringify(output);
-    // await write('data/data01.json', outputString);
+//     console.log(output);
+//     let outputString = JSON.stringify(output);
+//     await write('data/data01.json', outputString);
 
 // } catch (err) {
 //     console.log('Error!'); 
@@ -42,13 +43,14 @@ return new Promise((resolve, reject) => {
 // const main = async () => {
 
 //     try {
-    // let data = await read('country-json/country-by-name.json');
-    // let parsedData = JSON.parse(data);
+//     let data = await read('country-json/country-by-name.json');
+//     let parsedData = JSON.parse(data);
 
-    // let names = parsedData.filter(item => item.country.toUpperCase()[0] === 'U');
+//     let names = parsedData.filter(item => item.country.toUpperCase()[0] === 'U');
 
-    // let namesString = JSON.stringify(names);
-    // await write('data/data02.json', namesString) 
+//     console.log(names);
+//     let namesString = JSON.stringify(names);
+//     await write('data/data02.json', namesString) 
 
 // } catch (err) {
 //     console.log('Error!'); 
@@ -60,17 +62,18 @@ return new Promise((resolve, reject) => {
 // const main = async () => {
 
 //     try {
-    // let data = await read('country-json/country-by-avg-male-height.json');
-    // let parsedData = JSON.parse(data);
+//     let data = await read('country-json/country-by-avg-male-height.json');
+//     let parsedData = JSON.parse(data);
 
-    // let output = parsedData.filter(function(element) {
-    //     if (element.height > 175) {
-    //         return true;
-    //     }
-    // });
+//     let output = parsedData.filter(function(element) {
+//         if (element.height > 175) {
+//             return true;
+//         }
+//     });
 
-    // let outputString = JSON.stringify(output);
-    // await write('data/data03.json', outputString);
+//     console.log(output);
+//     let outputString = JSON.stringify(output);
+//     await write('data/data03.json', outputString);
 
 // } catch (err) {
 //     console.log('Error!'); 
@@ -82,26 +85,27 @@ return new Promise((resolve, reject) => {
 // const main = async () => {
 
 //     try {
-    // let data = await read('country-json/country-by-life-expectancy.json');
-    // let parsedData = JSON.parse(data);
+//     let data = await read('country-json/country-by-life-expectancy.json');
+//     let parsedData = JSON.parse(data);
 
-    // parsedData.forEach(life => {
-    //     if (life.expectancy > 72.6) {
-    //         life.res = 'High life expectancy'
-    //     }
-    //     else if (life.expectancy === null) {
-    //         life.res = '...'
-    //     }
-    //     else {
-    //         life.res = 'Low life expectancy'
-    //     }
-    // });
+//     parsedData.forEach(life => {
+//         if (life.expectancy > 72.6) {
+//             life.res = 'High life expectancy'
+//         }
+//         else if (life.expectancy === null) {
+//             life.res = '...'
+//         }
+//         else {
+//             life.res = 'Low life expectancy'
+//         }
+//     });
 
-    // let newData = [...parsedData];
-    // let sortData = newData.sort((low, high) => { return high.expectancy - low.expectancy });
+//     let newData = [...parsedData];
+//     let sortData = newData.sort((low, high) => { return high.expectancy - low.expectancy });
 
-    // let dataString = JSON.stringify(sortData);
-    // await write('data/data04.json', dataString);
+//     console.log(sortData);
+//     let dataString = JSON.stringify(sortData);
+//     await write('data/data04.json', dataString);
 
 // } catch (err) {
 //     console.log('Error!'); 
@@ -113,13 +117,14 @@ return new Promise((resolve, reject) => {
 // const main = async () => {
 
 //     try {
-    // let data = await read('country-json/country-by-continent.json');
-    // let parsedData = JSON.parse(data);
+//     let data = await read('country-json/country-by-continent.json');
+//     let parsedData = JSON.parse(data);
 
-    // let output = parsedData.map(item => [item.country, item.continent].join(", a country in "));
+//     let output = parsedData.map(item => [item.country, item.continent].join(", a country in "));
 
-    // let outputString = JSON.stringify(output);
-    // await write('data/data05.json', outputString);
+//     console.log(output);
+//     let outputString = JSON.stringify(output);
+//     await write('data/data05.json', outputString);
 
 // } catch (err) {
 //     console.log('Error!'); 
@@ -457,16 +462,16 @@ return new Promise((resolve, reject) => {
 // const main = async () => {
 
 //     try {
-    // let data = await read('country-json/country-by-surface-area.json');
-    // let parsedData = JSON.parse(data);
+//     let data = await read('country-json/country-by-surface-area.json');
+//     let parsedData = JSON.parse(data);
 
-    // let output = parsedData.filter(item => item.area > 1);
+//     let output = parsedData.filter(item => item.area > 1);
 
-    // let round = output.map(item => `${item.country} with surface area of ${Math.round(item.area)}`);
+//     let round = output.map(item => `Country: ${item.country}\nArea:${Math.round(item.area)}`);
 
-    // console.log(round);
-    // let outputString = JSON.stringify(round);
-    // await write('data/data19.json', outputString);
+//     console.log(round);
+//     let outputString = JSON.stringify(round);
+//     await write('data/data19.json', outputString);
 
 // } catch (err) {
 //     console.log('Error!'); 
