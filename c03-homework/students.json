@@ -1,0 +1,30 @@
+[
+    {
+        "first_name": "Qwerty",
+        "last_name": "Qwerty",
+        "gender": "Female",
+        "id": 1,
+        "gpa": 10
+    },
+    {
+        "first_name": "Qwerty2",
+        "last_name": "Qwerty2",
+        "gender": "Female",
+        "id": 2,
+        "gpa": 6
+    },
+    {
+        "id": 3,
+        "first_name": "Bubbles",
+        "last_name": "Qwerty11",
+        "gender": "Male",
+        "gpa": 1
+    },
+    {
+        "first_name": "Qwerty4",
+        "last_name": "Qwerty4",
+        "gender": "Female",
+        "id": 4,
+        "gpa": 3.8
+    }
+]
