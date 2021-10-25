@@ -1,5 +1,4 @@
 const fs = require('fs');
-const students = require('./students.json');
 const express = require('express');
 
 const api = express();
@@ -23,30 +22,41 @@ const write = (fileName, writeFile) => {
     })
 }
 
-api.get('/students', (req, res) => {
-    res.status(200).send(students);
+api.get('/students', async(req, res) => {
+    try {
+        let data = await read('students.json')
+        let parsedData = JSON.parse(data);
+        res.status(200).send(parsedData);
+    } catch (err) {
+        console.log(err)
+    }
 });
 
 api.post('/students', async (req, res) => {
     try {
-        let data = await read('students.json')
+        let data = await read('students.json');
         let parsedData = JSON.parse(data);
-        let output = [...parsedData, req.body]
-        console.log(output);
+        let output = [...parsedData, req.body];
         let outputString = JSON.stringify(output);
         await write('students.json', outputString);
     }
     catch (err) {
         console.log('Error!');
     }
-    res.status(201).send(req.body)
+    res.status(201).send(req.body);
 })
 
 api.get('/students/:id', (req, res) => {
-    if (!students[req.params.id]) {
-        return res.status(404).send('Not found');
+    try {
+        let data = await read('students.json');
+        let parsedData = JSON.parse(data);
+        if (!parsedData[req.params.id]) {
+            return res.status(404).send('Not found');
+        }
+        res.status(200).send(parsedData[req.params.id]);
+    } catch (err) {
+        console.log(err);
     }
-    res.status(200).send(students[req.params.id]);
 });
 
 api.put('/students/:id', async (req, res) => {
@@ -121,4 +131,3 @@ api.listen(10000, err => {
     }
     return console.log('Server successfully started on port 10000')
 });
-
