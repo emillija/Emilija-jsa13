@@ -46,7 +46,7 @@ api.post('/students', async (req, res) => {
     res.status(201).send(req.body);
 })
 
-api.get('/students/:id', (req, res) => {
+api.get('/students/:id', async (req, res) => {
     try {
         let data = await read('students.json');
         let parsedData = JSON.parse(data);
@@ -108,7 +108,7 @@ api.patch('/students/:id', async (req, res) => {
     }
 });
 
-api.delete('/students/:id',async (req, res) => {
+api.delete('/students/:id', async (req, res) => {
     try{
         let data = await read('students.json');
         let parsedData = JSON.parse(data);
